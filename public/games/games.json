@@ -22,7 +22,7 @@
     {
         "title": "N64",
         "image": "/games/images/n64.png",
-        "location": "/games/files/webretro/?core=mupen64plus_next"
+        "location":  "/games/files/webretro/?core=snes9x"
     },
     {
         "title": "SNES",
