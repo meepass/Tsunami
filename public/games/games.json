@@ -92,7 +92,7 @@
     {
         "title": "Syobon Action",
         "image": "/games/images/syobon-action.jpg",
-        "location": "/games/files/syobon-actio
+        "location": "/games/files/syobon-action"
     },
     {
         "title": "2048",
@@ -120,7 +120,7 @@
         "location": "/corrosion/gateway?url=zombsroyale.io"
     },
     {
-        "title": "1v1.lol",
+        "title": "1lolz",
         "image": "/games/images/1v1-lol.jpg",
         "location": "/corrosion/gateway?url=1v1.lol"
     },
@@ -137,11 +137,6 @@
     {
         "title": "Retro - Coming Soon!",
         "image": "https://avatars.githubusercontent.com/u/87547936",
-        "location": "/" 
-     },
-    {
-        "title": "ducky",
-        "image": "/games/images/fridaynightfunkin.jpg",
-        "location": "/games/files/fridaynightfunkin"
+        "location": "/"
     }
 ]
