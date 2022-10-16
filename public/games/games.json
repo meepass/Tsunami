@@ -92,7 +92,7 @@
     {
         "title": "Syobon Action",
         "image": "/games/images/syobon-action.jpg",
-        "location": "/games/files/syobon-action"
+        "location": "/games/files/syobon-actio
     },
     {
         "title": "2048",
@@ -137,6 +137,11 @@
     {
         "title": "Retro - Coming Soon!",
         "image": "https://avatars.githubusercontent.com/u/87547936",
-        "location": "/"
+        "location": "/" 
+     },
+    {
+        "title": "ducky",
+        "image": "/games/images/fridaynightfunkin.jpg",
+        "location": "/games/files/fridaynightfunkin"
     }
 ]
